@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "Id": 2,
+            "Code": "iccsid",
+            "Name": "北方重工业集团有限公司",
+            "Level": 1,
+            "Restype": 1,
+            "Respath": "/iccsid/",
+            "Parentcode": "iccsid",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 3,
+            "Code": "bbbm",
+            "Name": "本部部门-修改后",
+            "Level": 2,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/",
+            "Parentcode": "iccsid",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 18,
+            "Code": "bzbuld",
+            "Name": "北重领导",
+            "Level": 3,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/bzbuld/",
+            "Parentcode": "bbbm",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 19,
+            "Code": "cwjrb",
+            "Name": "财务金融部",
+            "Level": 3,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/cwjrb/",
+            "Parentcode": "bbbm",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 265,
+            "Code": "bbbmjj",
+            "Name": "纪检",
+            "Level": 3,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/bbbmjj/",
+            "Parentcode": "bbbm",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 266,
+            "Code": "jjxcgzz",
+            "Name": "巡察工作组",
+            "Level": 4,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/bbbmjj/jjxcgzz/",
+            "Parentcode": "bbbmjj",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 267,
+            "Code": "jjajsls",
+            "Name": "案件审理室",
+            "Level": 4,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/bbbmjj/jjajsls/",
+            "Parentcode": "bbbmjj",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 268,
+            "Code": "jjjljcs",
+            "Name": "纪律检查室",
+            "Level": 4,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/bbbmjj/jjjljcs/",
+            "Parentcode": "bbbmjj",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        },
+        {
+            "Id": 269,
+            "Code": "jjxzjcs",
+            "Name": "行政监察室",
+            "Level": 4,
+            "Restype": 1,
+            "Respath": "/iccsid/bbbm/bbbmjj/jjxzjcs/",
+            "Parentcode": "bbbmjj",
+            "Belongin": 0,
+            "Count": null,
+            "Areatype": 0
+        }
+    ],
+    "ErrCode": 200,
+    "ErrMsg": null
+}

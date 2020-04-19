@@ -1,0 +1,1 @@
+uvicorn fastgate:app --port 8088 --reload

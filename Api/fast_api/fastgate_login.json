@@ -1,0 +1,32 @@
+{
+    "data": {
+        "departs": null,
+        "roleRecordList": [],
+        "departments": [],
+        "DeviceCode": null,
+        "Id": "admin",
+        "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJubyI6ImFkbWluIiwiaWRDYXJkIjoiMzAyMTUxNTMyMTU2MTUzMTUzNDUiLCJuYW1lIjoi6LaF57qn566h55CG5ZGYIiwiYWxsb3dQb3AiOnRydWUsImFkbWluIjp0cnVlLCJpZCI6ImFkbWluIiwidXNlckF1dGhvciI6IjAiLCJleHAiOjE1ODc3OTY0MzgsImlhdCI6MTU4NjkzMjQzOCwiZW1haWwiOiIifQ.NWDryRbaHam8QCvomRvHsnZmXTi2DCfqUdTQbfmr6xc",
+        "Remarker": null,
+        "Rev": null,
+        "First": null,
+        "Last": null,
+        "Email": "",
+        "Pwd": null,
+        "PictureId": null,
+        "SexId": null,
+        "IdCard": "30215153215615315345",
+        "No": "admin",
+        "Isdel": 1,
+        "Spell": null,
+        "Name": "超级管理员",
+        "Phone": null,
+        "VmPasswd": null,
+        "UserAuth": "0",
+        "AllowPop": true,
+        "ReleasePwd": null,
+        "Admin": true,
+        "SystemType": 2
+    },
+    "ErrCode": 200,
+    "ErrMsg": null
+}

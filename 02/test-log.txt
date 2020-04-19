@@ -1,0 +1,1 @@
+[INFO] [2020-02-24 21:05:13,417] Test log message
